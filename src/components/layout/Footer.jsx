@@ -9,9 +9,9 @@ export const Footer = () => {
           {/* Logo Client */}
           <div className="flex flex-col items-start gap-4">
             <img
-              src="/img/logo.png"
+              src="/img/Untitled design (3).png"
               alt="RaabShoes Logo"
-              className="h-12 w-auto"
+              className="h-20 w-auto"
             />
             <p className="text-gray-400 leading-relaxed max-w-xs">
               Jasa cuci sepatu profesional dan terpercaya. Aman untuk semua
